@@ -16,6 +16,6 @@
     "ng-formio-builder-file-fix": "^2.36.15",
     "bootswatch": "^3.3.7",
     "font-awesome": "^4.7.0",
-    "ng-formio-helper": "^1.8.3"
+    "ng-formio-helper-file-fix": "^1.8.4"
   }
 }
