@@ -1,6 +1,6 @@
 {
   "name": "formio-app-formio",
-  "version": "2.1.1",
+  "version": "2.1.2",
   "scripts": {
     "test": "gulp test"
   },
